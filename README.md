@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning graphic design
 - 📫 How to reach me: instagram
-- ⚡ Fun fact: i don't know code lol
+- ⚡ Fun fact: leave in morocco lol
 
 <!---
 Assim-Genshi/Assim-Genshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
