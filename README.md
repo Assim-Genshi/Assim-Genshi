@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Assim-Genshi
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning graphic design
+- 👀 I’m interested in music
+- 🌱 I’m currently learning coding
 - 📫 How to reach me: instagram
 - ⚡ Fun fact: live in morocco lol
 
