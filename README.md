@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Assim-Genshi
-- 👀 I’m interested in music
-- 🌱 I’m currently learning coding
-- 📫 How to reach me: instagram
-- ⚡ Fun fact: live in morocco lol
+Hey, I’m Assim ✦
+
+Designer who loves making software look beautiful, I love open-source.
+
+ Native macOS apps
+✎ UI/UX & Graphic Design
+⌘ SwiftUI • Metal • SvelteKit
+• Open Source
+
+Currently building Moonleaf.
 
 <!---
 Assim-Genshi/Assim-Genshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
