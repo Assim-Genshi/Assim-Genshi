@@ -10,7 +10,7 @@ Designer who loves making software look beautiful, I love open-source.
 
 • Open Source
 
-Currently building Moonleaf.
+Currently building a browser 😙.
 
 <!---
 Assim-Genshi/Assim-Genshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
